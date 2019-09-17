@@ -1,5 +1,5 @@
 #include <stdio.h>
-main()
+rev()
 {
     int n, reversedNumber = 0, remainder;
     printf("Enter an integer: ");
