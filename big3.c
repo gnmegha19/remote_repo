@@ -2,6 +2,7 @@
 big3()
 {   
     double n1, n2, n3;
+    printf("Edited file in github to check webhook configuration");
     printf("Enter three different numbers: ");
     scanf("%lf %lf %lf", &n1, &n2, &n3);
     if( n1>=n2 && n1>=n3 )
